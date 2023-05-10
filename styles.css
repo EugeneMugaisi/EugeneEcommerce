@@ -98,6 +98,11 @@ body
     left: 0;
 }
 
+#header img
+{
+    width: 60px;
+}
+
 #navbar
 {
     display: flex;

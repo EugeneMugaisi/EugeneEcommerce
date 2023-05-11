@@ -658,6 +658,14 @@ footer .copyright
     border-radius: 4px;
     color: #fff;
     font-weight: 600;
+    transition: 0.3s;
+}
+
+#pagination a:hover
+{
+    background-color: #fff;
+    color: #088178;
+    border: 1px solid #088178;
 }
 
 #pagination a i

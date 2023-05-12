@@ -828,7 +828,42 @@ footer .copyright
     z-index: -9;
 }
 
+/* about start */
 
+#page-header.about-header
+{
+    background-image: url("img/about/banner.png");
+}
+
+#about-head
+{
+    display: flex;
+    align-items: center;
+}
+
+#about-head img
+{
+    width: 50%;
+    height: auto;
+}
+
+#about-head div
+{
+padding-left: 40px;
+}
+
+#about-app
+{
+    text-align: center;
+}
+
+#about-app video
+{
+    width: 70%;
+    height: 100%;
+    margin-top: 30px;
+    border-radius: 20px;
+}
 
 
 
